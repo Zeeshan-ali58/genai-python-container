@@ -38,7 +38,7 @@ cubeArea = 6 * (sideArea**2)
 print(f"Area of cube is {cubeArea}")
 
 # now we'll be calculating the volume of cylinder
-cycilderRadius = 5 # a cube has six sides
+cycilderRadius = 5
 cylinderHeight = 20
 cylinderVolume = math.pi * (cycilderRadius**2) * cylinderHeight
 print(f"Volume of cylinder is {cylinderVolume:.2f}")
